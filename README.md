@@ -15,3 +15,9 @@ Aplikasi web ini memungkinkan pengguna untuk mencari film menggunakan API OMDb. 
 - **Penentuan Harga** untuk memastikan harga yang konsisten.
 - **Fungsi Keranjang Belanja** untuk mengelola film yang dipilih.
 - **Proses Checkout** untuk menyelesaikan pembelian.
+
+## Cara Menjalankan Aplikasi
+
+1. Jalankan perintah berikut pada folder yang terdapat `package.json` untuk menginstal dependensi:
+   ```sh
+   npm install
