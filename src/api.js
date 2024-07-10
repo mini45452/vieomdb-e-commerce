@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const apiKey = 'fb07ea'; // Replace with your OMDb API key
+const apiKey = '3bca75a6';
 
 export const fetchMovies = async (searchTerm, year, genre, page) => {
   const url = `http://www.omdbapi.com/?s=${searchTerm}&y=${year}&type=${genre}&page=${page}&apikey=${apiKey}`;
