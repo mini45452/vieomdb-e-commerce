@@ -17,11 +17,12 @@ Aplikasi web ini memungkinkan pengguna untuk mencari film menggunakan API OMDb. 
 - **Proses Checkout** untuk menyelesaikan pembelian.
 
 ## Cara Menjalankan Aplikasi
+1. Clone repository ini
 
-1. Jalankan perintah berikut pada folder yang terdapat `package.json` untuk menginstal dependensi:
+2. Jalankan perintah berikut pada folder yang terdapat `package.json` untuk menginstal dependensi:
    ```sh
    npm install
 
-2. Lalu untuk run aplikasi
+3. Lalu untuk run aplikasi
    ```sh
    npm start
