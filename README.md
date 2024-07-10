@@ -21,3 +21,7 @@ Aplikasi web ini memungkinkan pengguna untuk mencari film menggunakan API OMDb. 
 1. Jalankan perintah berikut pada folder yang terdapat `package.json` untuk menginstal dependensi:
    ```sh
    npm install
+
+2. Lalu untuk run aplikasi
+   ```sh
+   npm start
